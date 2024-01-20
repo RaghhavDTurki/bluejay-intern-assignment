@@ -1,0 +1,19 @@
+
+Employees with 7_consecutive_days:
+Employee: Sparks, KeWWeMh, Position ID: WFS000101
+Employee: CEreira Jr, JEse, Position ID: WFS000456
+Employee: SiWgh, JaspreeM, Position ID: WFS000424
+Employee: GAeWdia, JAaW CarXEs, Position ID: WFS000473
+
+Employees with less_than_10_hours_but_more_than_1_hour_between_shifts:
+Employee: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550
+Employee: CaMaXaWE, CeghaW, Position ID: WFS000153
+Employee: MraW, WiXXiaC Ha, Position ID: WFS000345
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523
+Employee: Xee, XaCar, Position ID: WFS000200
+Employee: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536
+Employee: CEreira Jr, JEse, Position ID: WFS000456
+Employee: De Xa Cerda, IgWaciE, Position ID: WFS000318
+
+Employees with more_than_14_hours_single_shift:
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523
