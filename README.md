@@ -10,7 +10,7 @@
     ```
     - Install the requirements
     ```bash
-    pip install -r pandas
+    pip install pandas
     ```
 3. Usage
 ```bash
